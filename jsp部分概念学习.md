@@ -22,10 +22,6 @@
     contenType：
     import:
 
-
-
-
-
 2、jsp里处理http请求和servelt一样，只不过要在<% %>里写代码
     例：
 
